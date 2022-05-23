@@ -1,5 +1,11 @@
 .tasks {
   /* sample */
+  margin:10px auto;
+  width:80%;
+  text-align: center;
+}
+.tasks li{
+  margin-left:-18px;
 }
 
 .empty {
